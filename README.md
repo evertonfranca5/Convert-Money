@@ -12,9 +12,7 @@
 
 ## :dart: About ##
 
- Movies and their trailers
-
- <img src="https://
+ Click here <link>https://evertonfranca5.github.io/Convert-Money/<link>
 
 ## :sparkles: Features ##
 
