@@ -14,10 +14,13 @@
 
 Para interagir com o projeto
 <br>
+Clique aqui > https://evertonfranca5.github.io/Convert-Money
 <br>
-Clique aqui > https://evertonfranca5.github.io/Convert-Money/
+<br>
+![projeto convert money](https://github.com/evertonfranca5/Convert-Money/assets/159544981/99f34e7e-29ac-4921-b17d-e06abb298014)
 
-## :sparkles: Features ##
+## :sparkles: Features 
+
 
 :heavy_check_mark: Recursos 1;\
 :heavy_check_mark: Recursos 2;\
