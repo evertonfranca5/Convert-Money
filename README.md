@@ -1,42 +1,43 @@
 
 <h1>
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/evertonfranca5" target="_blank">Author</a>
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Recursos</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#memo-license">Licenças</a> &#xa0; | &#xa0;
+  <a href="https://github.com/evertonfranca5" target="_blank">Autor</a>
 </p></h1>
 
 <br>
 
 ## :dart: About ##
 
- Click here <link>https://evertonfranca5.github.io/Convert-Money/<link>
+Para interagir com o projeto
+<br>
+<br>
+Clique aqui > https://evertonfranca5.github.io/Convert-Money/
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Recursos 1;\
+:heavy_check_mark: Recursos 2;\
+:heavy_check_mark: Recursos 3;
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+Ferramentas utilizadas nesse projeto
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
 
-## :memo: License ##
+## :memo: Licença ##
 
 
-This project is under the [MIT license](./LICENSE).
+Este projeto está sobre [MIT license](./LICENSE).
 
-Made with love by [Everton França ](https://github.com/evertonfranca5) 🚀.
+Feito com amor por [Everton França ](https://github.com/evertonfranca5) 🚀.
 
 
-&#xa0;
 
-<a href="#top">Back to top</a>
