@@ -1,16 +1,16 @@
 
 <h1>
 <p align="center">
-  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Recursos</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#memo-license">Licenças</a> &#xa0; | &#xa0;
+  <a href="#dart-Sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-Recursos">Recursos</a> &#xa0; | &#xa0;
+  <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#memo-Licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/evertonfranca5" target="_blank">Autor</a>
 </p></h1>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 Para interagir com o projeto
 <br>
@@ -19,14 +19,14 @@ Clique aqui > https://evertonfranca5.github.io/Convert-Money
 <br>
 ![projeto convert money](https://github.com/evertonfranca5/Convert-Money/assets/159544981/99f34e7e-29ac-4921-b17d-e06abb298014)
 
-## :sparkles: Features 
+## :sparkles: Recursos
 
 
 :heavy_check_mark: Recursos 1;\
 :heavy_check_mark: Recursos 2;\
 :heavy_check_mark: Recursos 3;
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 Ferramentas utilizadas nesse projeto
 
