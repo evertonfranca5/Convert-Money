@@ -12,11 +12,8 @@
 
 ## :dart: Sobre ##
 
-Para interagir com o projeto
-<br>
-Clique aqui > https://evertonfranca5.github.io/Convert-Money
-<br>
-<br>
+## Clique aqui para interagir com o projeto> https://evertonfranca5.github.io/Convert-Money
+
 ![projeto convert money](https://github.com/evertonfranca5/Convert-Money/assets/159544981/99f34e7e-29ac-4921-b17d-e06abb298014)
 
 ## :sparkles: Recursos
